@@ -1,0 +1,148 @@
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.icon{
+    background:linear-gradient(rgba(25, 25, 25, 0.2),rgba(230, 226, 226, 0));
+    padding: 10px;
+    border-radius: 50%;
+}
+.form  {
+    height: 50px;
+    width: 300px;
+    border-radius: 5px;
+    transition: 0.4s;
+}
+.form:focus{
+    outline: 2px solid aquamarine;
+    border: none;
+}
+.search:focus{
+    outline: 2px solid aquamarine;
+    border: none;
+}
+.search {
+    height: 50px;
+    width: 350px;
+    border-bottom-left-radius:5px ;
+    border-top-left-radius:5px ;
+    transition: 0.4s;
+}
+.search-btn{
+  margin-left: -10px;
+  border-bottom-right-radius:5px ;
+    border-top-right-radius:5px ;
+}
+
+  .fa-comment{
+    margin-left: 40px;
+    padding-top: 10px;
+    font-size: 23px;
+    
+ }
+ .fa-bell{
+    margin-left: 25px;
+    font-size: 23px;
+    padding-top: 10px;
+ }
+ .pic{
+    margin-left: 25px;
+    margin-top: -10px;
+   
+ }
+ .sell-button{
+    margin-left: 50px;
+    padding: 12px;
+    border-radius: 23px;
+    background-color: #fff;
+    border-bottom: 4px solid #3a77ff;
+    border-top:4px solid #23e5db ;
+    border-right: 4px solid #3a77ff;
+    border-left: 4px solid #ffce32;
+ }
+.nav-hover{
+    color: black;
+}
+
+ .nav-hover:hover{
+    color: aquamarine; 
+ }
+ .content h4{
+    font-size: 15px;
+ }
+ .card1 .content img{
+    margin-left: 50px;
+ }
+
+
+/* footer{
+  
+background-color: lightgrey;
+height: 200px;
+
+
+} */
+
+
+.bottom-img{
+   padding-top: 30px;
+   margin-left: 70px;
+   
+}
+/* .footer-svg{
+    margin-right: 50px;
+}
+ */
+
+
+
+
+ .vr {
+    height: 150px;
+    width: 3px !important;
+}
+
+
+ .download-section {
+    margin-left: -18px !important;
+}
+
+.download-section h6 {
+    font-size: 14px !important;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+.download-img {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.download-images img {
+    height: 37px;
+    margin-right: 10px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
